@@ -16,7 +16,7 @@ public class KSRT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Resource res = null;
+        System.out.println("Hello");
     }
     
 }
